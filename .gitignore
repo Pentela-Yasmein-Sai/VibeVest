@@ -5,6 +5,16 @@
 /.pnp
 .pnp.js
 
+<<<<<<< HEAD
+=======
+#Environment secret
+.env
+/.env
+
+#log files
+.log
+
+>>>>>>> 508d4d9ab24bed16120c9a25702720465548ad41
 # testing
 /coverage
 
