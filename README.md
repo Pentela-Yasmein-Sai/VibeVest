@@ -40,11 +40,11 @@ The application is split into two distinct, communicating ecosystems:
 
 ##  Tech Stack
 
-Frontend: React.js, React Router, HTML5, CSS3, Chart.js
-Backend: Node.js, Express.js
-Database: MongoDB, Mongoose ORM
-Testing Frame: Jest, Supertest
-Cloud Devops: Amazon Web Services (AWS)
+> Frontend: React.js, React Router, HTML5, CSS3, Chart.js
+> Backend: Node.js, Express.js
+> Database: MongoDB, Mongoose ORM
+> Testing Frame: Jest, Supertest
+> Cloud Devops: Amazon Web Services (AWS)
 
 ---
 
