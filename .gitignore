@@ -5,6 +5,13 @@
 /.pnp
 .pnp.js
 
+#Environment secret
+.env
+/.env
+
+#log files
+.log
+
 # testing
 /coverage
 
