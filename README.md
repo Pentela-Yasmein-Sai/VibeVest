@@ -92,7 +92,7 @@ Building this enterprise-grade trading simulation provided deep insights into fu
  ```
 
 3. to run tests
-   ``` bash
-   cd backend
+  ``` bash
+   cd frontend
    npm run test
    ```
