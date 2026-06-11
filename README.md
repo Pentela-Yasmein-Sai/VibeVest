@@ -96,4 +96,4 @@ Building this enterprise-grade trading simulation provided deep insights into fu
    cd frontend
    npm run test
    ```
->>>>>>> 508d4d9ab24bed16120c9a25702720465548ad41
+
