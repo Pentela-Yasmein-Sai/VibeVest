@@ -78,15 +78,21 @@ Building this enterprise-grade trading simulation provided deep insights into fu
 
 ### Backend Setup
 1. Open your terminal and navigate to the backend directory:
+  ``` bash
    cd backend
    npm install
    npm start
+```
    
 2. navigate to frontend directory:
+  ``` bash
    cd frontend
    npm install
    npm start
+ ```
 
 3. to run tests
+   ``` bash
    cd backend
    npm run test
+   ```
